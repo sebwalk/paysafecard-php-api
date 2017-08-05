@@ -1,0 +1,10 @@
+{
+    "require": {
+        "mashape/unirest-php": "^3.0"
+    },
+    "autoload": {
+        "psr-0" : {
+            "SebastianWalker\\Paysafecard" : "src"
+        }
+    }
+}
