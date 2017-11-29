@@ -2,6 +2,7 @@
     "name": "sebastianwalker/paysafecard-php-api",
     "description": "A PHP wrapper for the Paysafecard Payments REST API",
     "require": {
+        "php": "^5.6 || ^7.0",
         "mashape/unirest-php": "^3.0"
     },
     "autoload": {
